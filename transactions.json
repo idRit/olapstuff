@@ -1,0 +1,82 @@
+[
+    {
+        "name": "t1",
+        "status": "start", 
+        "operation": "read(a)"
+    },
+    {
+        "name": "t1",
+        "status": "", 
+        "operation": "add(a+50)"
+    },
+    {
+        "name": "t1",
+        "status": "pc",
+        "operation": "write(a)"
+    },
+    {
+        "name": "t1",
+        "status": "commited", 
+        "operation": ""
+    },
+    {
+        "name": "t2",
+        "status": "start", 
+        "operation": "read(a)"
+    },
+    {
+        "name": "t2",
+        "status": "", 
+        "operation": "sub(a-50)"
+    },
+    {
+        "name": "t2",
+        "status": "pc", 
+        "operation": "write(a)"
+    },
+    {
+        "name": "t2",
+        "status": "commited", 
+        "operation": ""
+    }, 
+    {
+        "name": "t3",
+        "status": "start", 
+        "operation": "read(a)"
+    },
+    {
+        "name": "t3",
+        "status": "", 
+        "operation": "add(a+50)"
+    },
+    {
+        "name": "t3",
+        "status": "", 
+        "operation": "sub(a-60)"
+    },
+    {
+        "name": "t3",
+        "status": "pc", 
+        "operation": "write(a)"
+    },
+    {
+        "name": "t4",
+        "status": "start", 
+        "operation": "read(a)"
+    },
+    {
+        "name": "t4",
+        "status": "", 
+        "operation": "add(a+50)"
+    },
+    {
+        "name": "t4",
+        "status": "pc", 
+        "operation": "write(a)"
+    },
+    {
+        "name": "t4",
+        "status": "commited", 
+        "operation": ""
+    }
+]
