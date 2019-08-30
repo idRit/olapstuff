@@ -2,81 +2,97 @@
     {
         "name": "t1",
         "status": "start", 
+        "data" : "a",
         "operation": "read(a)"
     },
     {
         "name": "t1",
-        "status": "", 
+        "status": "",
+        "data" : "a", 
         "operation": "add(a+50)"
     },
     {
         "name": "t1",
         "status": "pc",
+        "data" : "a",
         "operation": "write(a)"
     },
     {
         "name": "t1",
         "status": "commited", 
+        "data" : "a",
         "operation": ""
     },
     {
         "name": "t2",
         "status": "start", 
+        "data" : "a",
         "operation": "read(a)"
     },
     {
         "name": "t2",
-        "status": "", 
+        "status": "",
+        "data" : "a", 
         "operation": "sub(a-50)"
     },
     {
         "name": "t2",
-        "status": "pc", 
+        "status": "pc",
+        "data" : "a", 
         "operation": "write(a)"
     },
     {
         "name": "t2",
         "status": "commited", 
+        "data" : "a",
         "operation": ""
     }, 
     {
         "name": "t3",
-        "status": "start", 
+        "status": "start",
+        "data" : "a", 
         "operation": "read(a)"
     },
     {
         "name": "t3",
-        "status": "", 
+        "status": "",
+        "data" : "a", 
         "operation": "add(a+50)"
     },
     {
         "name": "t3",
-        "status": "", 
+        "status": "",
+        "data" : "a", 
         "operation": "sub(a-60)"
     },
     {
         "name": "t3",
         "status": "pc", 
+        "data" : "a",
         "operation": "write(a)"
     },
     {
         "name": "t4",
         "status": "start", 
+        "data" : "a",
         "operation": "read(a)"
     },
     {
         "name": "t4",
         "status": "", 
+        "data" : "a",
         "operation": "add(a+50)"
     },
     {
         "name": "t4",
-        "status": "pc", 
+        "status": "pc",
+        "data" : "a", 
         "operation": "write(a)"
     },
     {
         "name": "t4",
         "status": "commited", 
+        "data" : "a",
         "operation": ""
     }
 ]
