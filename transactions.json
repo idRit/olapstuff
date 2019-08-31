@@ -3,13 +3,19 @@
         "name": "t1",
         "status": "start", 
         "data" : "a",
+        "operation": ""
+    },
+    {
+        "name": "t1",
+        "status": "", 
+        "data" : "a",
         "operation": "read(a)"
     },
     {
         "name": "t1",
         "status": "",
         "data" : "a", 
-        "operation": "add(a+50)"
+        "operation": "add(50)"
     },
     {
         "name": "t1",
@@ -27,13 +33,19 @@
         "name": "t2",
         "status": "start", 
         "data" : "a",
+        "operation": ""
+    },
+    {
+        "name": "t2",
+        "status": "", 
+        "data" : "a",
         "operation": "read(a)"
     },
     {
         "name": "t2",
         "status": "",
         "data" : "a", 
-        "operation": "sub(a-50)"
+        "operation": "sub(50)"
     },
     {
         "name": "t2",
@@ -51,19 +63,25 @@
         "name": "t3",
         "status": "start",
         "data" : "a", 
+        "operation": ""
+    },
+    {
+        "name": "t3",
+        "status": "",
+        "data" : "a", 
         "operation": "read(a)"
     },
     {
         "name": "t3",
         "status": "",
         "data" : "a", 
-        "operation": "add(a+50)"
+        "operation": "add(50)"
     },
     {
         "name": "t3",
         "status": "",
         "data" : "a", 
-        "operation": "sub(a-60)"
+        "operation": "sub(60)"
     },
     {
         "name": "t3",
@@ -75,13 +93,19 @@
         "name": "t4",
         "status": "start", 
         "data" : "a",
+        "operation": ""
+    },
+    {
+        "name": "t4",
+        "status": "", 
+        "data" : "a",
         "operation": "read(a)"
     },
     {
         "name": "t4",
         "status": "", 
         "data" : "a",
-        "operation": "add(a+50)"
+        "operation": "add(50)"
     },
     {
         "name": "t4",
